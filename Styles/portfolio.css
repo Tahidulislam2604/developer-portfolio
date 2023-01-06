@@ -6,7 +6,7 @@
 nav {
     display: flex;
     justify-content: space-around;
-    margin: 51px 200px;
+    padding: 51px 200px;
 }
 
 nav li {
